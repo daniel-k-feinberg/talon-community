@@ -9,4 +9,4 @@ __pycache__
 .bak
 
 # System files
-*.talon-list
+*system_paths-*
